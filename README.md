@@ -21,6 +21,7 @@ My name is Anthony Robustelli, I am a software engineer looking to create intere
 
 # Software Video Demonstrations:
 ### HoloLens Application - IT Dashboard:
+<video src='https://www.youtube.com/watch?v=yJY8i8oX_-A&ab_channel=AnthonyRobustelli' width=180 />
 [![Watch the video](https://img.youtube.com/vi/yJY8i8oX_-A/hqdefault.jpg)](https://www.youtube.com/watch?v=yJY8i8oX_-A&ab_channel=AnthonyRobustelli)
 ### Android Application - Yelp Clone:
 [![Watch the video](https://img.youtube.com/vi/NbRGwh6CqJg/hqdefault.jpg)](https://www.youtube.com/watch?v=NbRGwh6CqJg&ab_channel=AnthonyRobustelli)
