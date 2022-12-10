@@ -21,18 +21,17 @@ My name is Anthony Robustelli, I am a software engineer looking to create intere
 
 # Software Video Demonstrations:
 ### HoloLens Application - IT Dashboard:
-<video src='https://www.youtube.com/watch?v=yJY8i8oX_-A&ab_channel=AnthonyRobustelli' width=180 />
-[![Watch the video](https://img.youtube.com/vi/yJY8i8oX_-A/hqdefault.jpg)](https://www.youtube.com/watch?v=yJY8i8oX_-A&ab_channel=AnthonyRobustelli)
+[![IT Dashboard video demo](https://img.youtube.com/vi/yJY8i8oX_-A/hqdefault.jpg)](https://www.youtube.com/watch?v=yJY8i8oX_-A&ab_channel=AnthonyRobustelli)
 ### Android Application - Yelp Clone:
-[![Watch the video](https://img.youtube.com/vi/NbRGwh6CqJg/hqdefault.jpg)](https://www.youtube.com/watch?v=NbRGwh6CqJg&ab_channel=AnthonyRobustelli)
+[![Yelp clone for Android](https://img.youtube.com/vi/NbRGwh6CqJg/hqdefault.jpg)](https://www.youtube.com/watch?v=NbRGwh6CqJg&ab_channel=AnthonyRobustelli)
 ### Full Stack Development - IMDB Clone:
-[![Watch the video](https://img.youtube.com/vi/tmPZtynNOG8/hqdefault.jpg)](https://www.youtube.com/watch?v=tmPZtynNOG8&ab_channel=AnthonyRobustelli)
+[![IMDB clone for Full Stack Dev](https://img.youtube.com/vi/tmPZtynNOG8/hqdefault.jpg)](https://www.youtube.com/watch?v=tmPZtynNOG8&ab_channel=AnthonyRobustelli)
 ### Object Oriented Programming - Java Storefront:
-[![Watch the video](https://img.youtube.com/vi/6aUzWAf2l0M/hqdefault.jpg)](https://www.youtube.com/watch?v=6aUzWAf2l0M&ab_channel=AnthonyRobustelli)
+[![Storefront app in Java](https://img.youtube.com/vi/6aUzWAf2l0M/hqdefault.jpg)](https://www.youtube.com/watch?v=6aUzWAf2l0M&ab_channel=AnthonyRobustelli)
 
 # Embedded Device Examples:
-[![Watch the video](https://img.youtube.com/vi/Sh69qsTbChU/hqdefault.jpg)](https://www.youtube.com/watch?v=Sh69qsTbChU&ab_channel=AnthonyRobustelli)
-[![Watch the video](https://img.youtube.com/vi/yKIePVrYRWg/hqdefault.jpg)](https://www.youtube.com/watch?v=yKIePVrYRWg&ab_channel=AnthonyRobustelli)
+[![Lab 1](https://img.youtube.com/vi/Sh69qsTbChU/hqdefault.jpg)](https://www.youtube.com/watch?v=Sh69qsTbChU&ab_channel=AnthonyRobustelli)
+[![Lab 4](https://img.youtube.com/vi/yKIePVrYRWg/hqdefault.jpg)](https://www.youtube.com/watch?v=yKIePVrYRWg&ab_channel=AnthonyRobustelli)
 <!---
 Robo287/Robo287 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
